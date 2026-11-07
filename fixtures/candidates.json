@@ -1,0 +1,12 @@
+{
+  "yesterday": {
+    "release_id": "rel-100",
+    "artifact": "build-yesterday",
+    "image_ref": "app:1.0.0-rc1"
+  },
+  "today": {
+    "release_id": "rel-100",
+    "artifact": "build-today",
+    "image_ref": "app:1.0.0-rc2"
+  }
+}
